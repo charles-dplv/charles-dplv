@@ -1,16 +1,20 @@
-## Hi there 👋
+<pre>
+ _          _ _                            _     _
+| |__   ___| | | ___   __      _____  _ __| | __| |
+| '_ \ / _ \ | |/ _ \  \ \ /\ / / _ \| '__| |/ _` |
+| | | |  __/ | | (_) |  \ V  V / (_) | |  | | (_| |
+|_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_|
 
-<!--
-**charles-dplv/charles-dplv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+visitor@github:~$ whoami
+charles — engineering student @ ENIB (CS + mechatronics), final year
+          two-time Swift Student Challenge winner · '24 & '25
 
-Here are some ideas to get you started:
+visitor@github:~$ uptime
+up 4 years · building things on the side when an idea won't let go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+visitor@github:~$ ./contact.sh
+email      <a href="mailto:charles.dplv@icloud.com">charles.dplv@icloud.com</a>
+linkedin   <a href="https://linkedin.com/in/charlesdplv">linkedin.com/in/charlesdplv</a>
+
+visitor@github:~$ _
+</pre>

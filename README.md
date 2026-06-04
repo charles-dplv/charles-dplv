@@ -15,6 +15,4 @@ up 4 years · building things on the side when an idea won't let go
 visitor@github:~$ ./contact.sh
 email      <a href="mailto:charles.dplv@icloud.com">charles.dplv@icloud.com</a>
 linkedin   <a href="https://linkedin.com/in/charlesdplv">linkedin.com/in/charlesdplv</a>
-
-visitor@github:~$ _
 </pre>

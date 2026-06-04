@@ -7,7 +7,6 @@
 
 visitor@github:~$ whoami
 charles — engineering student @ ENIB (CS + mechatronics), final year
-          two-time Swift Student Challenge winner · '24 & '25
 
 visitor@github:~$ uptime
 up 4 years · building things on the side when an idea won't let go
